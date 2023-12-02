@@ -10,7 +10,7 @@ Android download: https://play.google.com/store/apps/details?id=com.maps.mappa_m
 website: https://mappamundi.us/
 
 ### Today in Music
-today-in-music.com
+https://today-in-music.com/
 <!--
 
 **Here are some ideas to get you started:**
